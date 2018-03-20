@@ -1,0 +1,19 @@
+{
+  "name": "membersignup",
+  "version": "1.0.0",
+  "description": "A sign up page for member dues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricVignola/memberSignUp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricVignola/memberSignUp/issues"
+  },
+  "homepage": "https://github.com/EricVignola/memberSignUp#readme"
+}
