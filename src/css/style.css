@@ -1,0 +1,62 @@
+html {
+    background-color: #EEE;
+    box-sizing: border-box;
+}
+
+form input{
+    font-size: 18px;
+}
+
+form h1 {
+    font-family: Cardo, serif;
+}
+
+#form-container {
+    width: 60%;
+    margin: auto;
+    margin-top: 10%;
+    padding: 1em; 
+    background-color: white;
+    box-shadow: 3px 3px 5px #ccc;
+}
+
+.form-box {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 5%;
+    display: inline-block;
+    border: none;
+    border-bottom: 5px #EEE dotted;
+}
+
+.form-box:focus {
+    border-bottom: 5px #81c784 solid;
+    outline: white;
+}
+
+#form-title {
+    font-family: Montserrat,  sans-serif;
+}
+
+.submit-button {
+    margin: auto;
+    display: block;
+    background-color: #81c784;
+    border-radius: 5px;
+    width: 25%;
+    height: 50px;
+    border: none;
+    box-shadow: 3px 3px 5px #ccc;
+
+    color: white;
+    font-size: 18px;
+}
+
+.submit-button:active, .submit-button:focus {
+    box-shadow: none;
+}
+
+.form-section {
+    width: 80%;
+    margin: auto;
+}
